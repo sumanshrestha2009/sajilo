@@ -33632,3 +33632,16 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8a9196', end
     background: #007bff;
     color: #fff;
 }
+.nav-item.black {
+    color: #333;
+    font-size: 18px;
+    font-weight: 800;
+    padding-top: 8px;
+}
+
+footer.main-footer div {
+    font-size: 13px;
+    font-weight: 600;
+    text-align: center;
+    color: #333;
+}
