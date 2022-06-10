@@ -33616,3 +33616,19 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8a9196', end
 .sumans .form-group label {padding-top: 10px;  font-weight: 900;}
 .sumans .form-group input.form-control, .sumans .form-group select.form-control.custom-select,
 .sumans .form-group textarea.form-control {color: #101010; font-weight: 600;}
+
+
+.btn-save {
+    border: 1px solid #007bff;
+    color: #007bff;
+    background: #fff;
+    border-radius: 5px;
+    padding: 8px 25px;
+    font-size: 13px;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+.btn-save:hover {
+    background: #007bff;
+    color: #fff;
+}
