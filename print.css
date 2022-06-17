@@ -13,5 +13,5 @@
 
     .dk-none{display: block !important;}
 
-    .no-print, .preloader, .main-header, .main-sidebar, .content-header, .buttons{display: none !important;}
+    .no-print, .print-none, .preloader, .main-header, .main-sidebar, .content-header, .buttons{display: none !important;}
 }
