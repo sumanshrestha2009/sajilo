@@ -33645,3 +33645,18 @@ footer.main-footer div {
     text-align: center;
     color: #333;
 }
+
+
+.style2 {
+    color: green;
+    font-weight: 900;
+}
+.style0 {
+    color: red;
+    font-weight: 900;
+}
+.style1 {
+    color: blue;
+    font-size: 17px;
+    font-weight: 900;
+}
