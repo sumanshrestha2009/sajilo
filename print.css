@@ -9,9 +9,10 @@
     .govt-text h2 {font-size: 24px; font-weight: 900; margin-bottom: 5px;}
     .govt-text h1 {font-size: 36px; font-weight: 900;}
     .divider-line {margin: 15px 0;}
-    .media_image img{height: 300px; width: auto;}
+    .media_image img{height: 100%; width: 100%;}
 
     .dk-none{display: block !important;}
+    .card.card-secondary { box-shadow: none;}
 
     .no-print, .print-none, .preloader, .main-header, .main-sidebar, .content-header, .buttons{display: none !important;}
 }
